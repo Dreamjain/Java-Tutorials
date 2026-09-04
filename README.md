@@ -2,6 +2,8 @@
 
 A beginner-friendly Java practice repository containing small programs for learning fundamental programming concepts through simple examples.
 
+![Java Build](https://github.com/Dreamjain/Java-Tutorials/actions/workflows/java-build.yml/badge.svg)
+
 ## 🖼️ Learning Flow
 
 ```mermaid
@@ -58,6 +60,10 @@ java Swap
 - Practice variables and console input with `Scanner`.
 - Learn nested loops and pattern printing.
 - Understand arithmetic operators and basic problem solving.
+
+## 🔄 Continuous Validation
+
+Every push and pull request automatically compiles both Java examples using **GitHub Actions**. This keeps the learning repository continuously checked for basic build errors.
 
 ## 📌 Status
 
